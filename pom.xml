@@ -26,6 +26,13 @@
       <version>5.2.4.RELEASE</version>
     </dependency>
 
+    <!-- 无头浏览器  http://htmlunit.sourceforge.net/-->
+    <dependency>
+      <groupId>net.sourceforge.htmlunit</groupId>
+      <artifactId>htmlunit</artifactId>
+      <version>2.40.0</version>
+    </dependency>
+
     <!-- https://mvnrepository.com/artifact/org.springframework/spring-aspects -->
     <dependency>
       <groupId>org.springframework</groupId>
