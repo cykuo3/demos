@@ -1,4 +1,4 @@
-package cn.cykuo.aop;
+package cn.cykuo.spring.aop;
 
 import org.springframework.stereotype.Service;
 

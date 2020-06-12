@@ -1,4 +1,4 @@
-package cn.cykuo.aop;
+package cn.cykuo.spring.aop;
 
 import org.aspectj.lang.annotation.*;
 
@@ -11,7 +11,7 @@ import org.aspectj.lang.annotation.*;
 @Aspect
 public class LogAspect {
 
-    @Pointcut("execution(public int cn.cykuo.aop.MyService.*(..))")
+    @Pointcut("execution(public int cn.cykuo.spring.aop.MyService.*(..))")
     public void pointCut(){}
 
     /**
