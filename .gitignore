@@ -27,3 +27,24 @@ hs_err_pid*
 .idea/*
 
 /target
+
+.vscode
+target/
+.DS_Store
+.idea/
+log
+screenshot/log.log
+screenshot/node_modules
+screenshot/package-lock.json
+*.jpg
+*.xls
+dict-searchq.iml
+.gradle/
+*.log
+
+
+
+.classpath
+.factorypath
+.project
+.settings/
